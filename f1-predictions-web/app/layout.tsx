@@ -1,15 +1,16 @@
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import React from 'react';
+import '@fontsource/titillium-web/300.css';
+import '@fontsource/titillium-web/400.css'; 
+import '@fontsource/titillium-web/600.css';
+import '@fontsource/titillium-web/700.css';
 import "./globals.css";
 
-const inter = Inter({
-  subsets: ["latin"],
-  variable: "--font-inter",
-});
-
-export const metadata: Metadata = {
-  title: "F1 2025 Predictions",
-  description: "Predictions for the 2025 Formula 1 season",
+export const metadata = {
+  title: 'Yuki ML - F1 2025 Predictions',
+  description: 'Advanced machine learning predictions for the 2025 Formula 1 season',
+  icons: {
+    icon: '/favicon.svg',
+  },
 };
 
 export default function RootLayout({
@@ -19,7 +20,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} font-sans antialiased`}>
+      <body className={`font-sans antialiased`}>
         {children}
       </body>
     </html>

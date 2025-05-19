@@ -1,9 +1,15 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import Plot from 'react-plotly.js';
+import dynamic from 'next/dynamic';
 import { Box, CircularProgress, Typography, Paper, Grid } from '@mui/material';
 import { Data, Layout } from 'plotly.js';
+
+// Dynamically import Plotly with SSR disabled
+const Plot = dynamic(
+  () => import('react-plotly.js'),
+  { ssr: false }
+);
 
 interface ErrorData {
   'Grand Prix': string;
