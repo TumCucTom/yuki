@@ -14,3 +14,5 @@ __pycache__/
 *.pyd
 
 docs/README-old.md
+code/radio/f1_cache/
+code/2025_f1_predictions/f1_cache/
