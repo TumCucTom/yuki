@@ -1,0 +1,5546 @@
+{
+  "Bahrain": {
+    "basic": {
+      "gp_name": "Bahrain",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 96.91404501169063
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 97.2530258147183
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 97.2530258147183
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 97.35623600875121
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 97.36295133928326
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 97.36295133928326
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 97.46967919182461
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 97.46967919182461
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 97.82045319111029
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 97.99573335108384
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 98.3038727997602
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 98.3038727997602
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 98.31785712659128
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 98.32771861750547
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 98.33964986860391
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 98.37664348731182
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 98.41334203762946
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 98.71847045799586
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 98.72568729320045
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 99.20246576212877
+        }
+      ],
+      "model_error": 0.8433656452712164,
+      "timestamp": "2025-05-19T23:16:50.950535"
+    },
+    "advanced": {
+      "gp_name": "Bahrain",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 96.91343526975797
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 97.25285818693143
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 97.35615221491862
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 97.36270942833652
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 97.46973067542565
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 97.66435565728584
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 97.82065067502822
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 97.99560153136039
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 98.2796511467075
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 98.30357828365419
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 98.30357828365419
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 98.31800010355175
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 98.32771379841024
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 98.33992917592926
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 98.37503843834928
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 98.376981103329
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 98.41345883465713
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 98.71866128561012
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 98.72547678059854
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 99.20289401169026
+        }
+      ],
+      "model_error": 1.1959743190900554,
+      "timestamp": "2025-05-19T23:16:52.371517"
+    },
+    "nochange": {
+      "gp_name": "Bahrain",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 96.91343526975797
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 97.25285818693143
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 97.35615221491862
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 97.36270942833652
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 97.46973067542565
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 97.66435565728584
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 97.82065067502822
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 97.99560153136039
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 98.2796511467075
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 98.30357828365419
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 98.30357828365419
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 98.31800010355175
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 98.32771379841024
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 98.33992917592926
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 98.37503843834928
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 98.376981103329
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 98.41345883465713
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 98.71866128561012
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 98.72547678059854
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 99.20289401169026
+        }
+      ],
+      "model_error": 1.1959743190900554,
+      "timestamp": "2025-05-19T23:16:53.770574"
+    },
+    "olddrivers": {
+      "gp_name": "Bahrain",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 96.91343526975797
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 97.25285818693143
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 97.35615221491862
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 97.36270942833652
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 97.46973067542565
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 97.66435565728584
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 97.82065067502822
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 97.99560153136039
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 98.2796511467075
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 98.30357828365419
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 98.30357828365419
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 98.31800010355175
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 98.32771379841024
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 98.33992917592926
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 98.37503843834928
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 98.376981103329
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 98.41345883465713
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 98.71866128561012
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 98.72547678059854
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 99.20289401169026
+        }
+      ],
+      "model_error": 1.1959743190900554,
+      "timestamp": "2025-05-19T23:16:55.112375"
+    }
+  },
+  "Saudi Arabia": {
+    "basic": {
+      "gp_name": "Saudi Arabia",
+      "model_type": "basic",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:17:11.462923"
+    },
+    "advanced": {
+      "gp_name": "Saudi Arabia",
+      "model_type": "advanced",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:17:12.870936"
+    },
+    "nochange": {
+      "gp_name": "Saudi Arabia",
+      "model_type": "nochange",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:17:14.315943"
+    },
+    "olddrivers": {
+      "gp_name": "Saudi Arabia",
+      "model_type": "olddrivers",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:17:15.659588"
+    }
+  },
+  "Australia": {
+    "basic": {
+      "gp_name": "Australia",
+      "model_type": "basic",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:17:32.177991"
+    },
+    "advanced": {
+      "gp_name": "Australia",
+      "model_type": "advanced",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:17:33.420927"
+    },
+    "nochange": {
+      "gp_name": "Australia",
+      "model_type": "nochange",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:17:34.669579"
+    },
+    "olddrivers": {
+      "gp_name": "Australia",
+      "model_type": "olddrivers",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:17:36.053516"
+    }
+  },
+  "Japan": {
+    "basic": {
+      "gp_name": "Japan",
+      "model_type": "basic",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:17:51.717199"
+    },
+    "advanced": {
+      "gp_name": "Japan",
+      "model_type": "advanced",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:17:53.102293"
+    },
+    "nochange": {
+      "gp_name": "Japan",
+      "model_type": "nochange",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:17:54.483773"
+    },
+    "olddrivers": {
+      "gp_name": "Japan",
+      "model_type": "olddrivers",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:17:55.888460"
+    }
+  },
+  "China": {
+    "basic": {
+      "gp_name": "China",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 103.91571096727345
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 105.77265470669323
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 105.94551318985272
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 106.02500864008182
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 106.02500864008182
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 107.37522754238313
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 108.03763331216108
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 108.03763331216108
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 108.38031096073526
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 108.38031096073526
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 108.48261452500194
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 108.54295682577731
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 108.54295682577731
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 109.07153636203509
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 109.20524162156559
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 109.24584585374068
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 109.30166939477428
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 109.54439005178993
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 111.05784537937755
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 114.00692081196776
+        }
+      ],
+      "model_error": 1.8707777530127352,
+      "timestamp": "2025-05-19T23:18:10.999619"
+    },
+    "advanced": {
+      "gp_name": "China",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 103.91124193766136
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 105.76802619000578
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 105.9375521893866
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 106.01432305662475
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 107.25066797585266
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 107.37806745936136
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 107.43396965305203
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 107.98754865841077
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 108.02935056483648
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 108.3806634350666
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 108.48597708972429
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 108.53984329871264
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 108.53984329871264
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 109.0726943129242
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 109.2095341257592
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 109.24820716878416
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 109.30505179858476
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 109.5542299652534
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 111.0623738942615
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 114.01394365826341
+        }
+      ],
+      "model_error": 1.3468080352342753,
+      "timestamp": "2025-05-19T23:18:12.626154"
+    },
+    "nochange": {
+      "gp_name": "China",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 103.91124193766136
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 105.76802619000578
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 105.9375521893866
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 106.01432305662475
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 107.25066797585266
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 107.37806745936136
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 107.43396965305203
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 107.98754865841077
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 108.02935056483648
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 108.3806634350666
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 108.48597708972429
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 108.53984329871264
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 108.53984329871264
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 109.0726943129242
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 109.2095341257592
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 109.24820716878416
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 109.30505179858476
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 109.5542299652534
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 111.0623738942615
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 114.01394365826341
+        }
+      ],
+      "model_error": 1.3468080352342753,
+      "timestamp": "2025-05-19T23:18:14.045125"
+    },
+    "olddrivers": {
+      "gp_name": "China",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 103.91124193766136
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 105.76802619000578
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 105.9375521893866
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 106.01432305662475
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 107.25066797585266
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 107.37806745936136
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 107.43396965305203
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 107.98754865841077
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 108.02935056483648
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 108.3806634350666
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 108.48597708972429
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 108.53984329871264
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 108.53984329871264
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 109.0726943129242
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 109.2095341257592
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 109.24820716878416
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 109.30505179858476
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 109.5542299652534
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 111.0623738942615
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 114.01394365826341
+        }
+      ],
+      "model_error": 1.3468080352342753,
+      "timestamp": "2025-05-19T23:18:15.448095"
+    }
+  },
+  "Miami": {
+    "basic": {
+      "gp_name": "Miami",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 94.76453915928231
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 94.76453915928231
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 95.35484005682117
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 95.49756032890366
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 95.49756032890366
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 95.82579808292574
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 95.83099448453292
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 95.98218465686925
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 96.1257645378777
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 96.1257645378777
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 96.14215429752097
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 96.17666223410926
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 96.2763534106544
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 96.30429356169341
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 96.32405129129768
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 96.33579339519743
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 96.33579339519743
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 96.36498450911283
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 96.42179469756128
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 96.8214784984372
+        }
+      ],
+      "model_error": 1.1329654737260668,
+      "timestamp": "2025-05-19T23:18:30.043561"
+    },
+    "advanced": {
+      "gp_name": "Miami",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 94.76481947864255
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 95.35485760262547
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 95.37279043168013
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 95.49755965241306
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 95.71125453341054
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 95.82569515609346
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 95.83099572677295
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 95.9826706853945
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 96.12559244384038
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 96.14215838030539
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 96.17638506142143
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 96.25065351238557
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 96.27646530415444
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 96.30414890111578
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 96.32423990295781
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 96.33572376440395
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 96.33572376440395
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 96.36495638443706
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 96.42155638947104
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 96.82142236874806
+        }
+      ],
+      "model_error": 1.065531042681929,
+      "timestamp": "2025-05-19T23:18:31.373292"
+    },
+    "nochange": {
+      "gp_name": "Miami",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 94.76481947864255
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 95.35485760262547
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 95.37279043168013
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 95.49755965241306
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 95.71125453341054
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 95.82569515609346
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 95.83099572677295
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 95.9826706853945
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 96.12559244384038
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 96.14215838030539
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 96.17638506142143
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 96.25065351238557
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 96.27646530415444
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 96.30414890111578
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 96.32423990295781
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 96.33572376440395
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 96.33572376440395
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 96.36495638443706
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 96.42155638947104
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 96.82142236874806
+        }
+      ],
+      "model_error": 1.065531042681929,
+      "timestamp": "2025-05-19T23:18:32.715189"
+    },
+    "olddrivers": {
+      "gp_name": "Miami",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 94.76481947864255
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 95.35485760262547
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 95.37279043168013
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 95.49755965241306
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 95.71125453341054
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 95.82569515609346
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 95.83099572677295
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 95.9826706853945
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 96.12559244384038
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 96.14215838030539
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 96.17638506142143
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 96.25065351238557
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 96.27646530415444
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 96.30414890111578
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 96.32423990295781
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 96.33572376440395
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 96.33572376440395
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 96.36495638443706
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 96.42155638947104
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 96.82142236874806
+        }
+      ],
+      "model_error": 1.065531042681929,
+      "timestamp": "2025-05-19T23:18:34.033767"
+    }
+  },
+  "Emilia Romagna": {
+    "basic": {
+      "gp_name": "Emilia Romagna",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 81.42924437948913
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 81.42924437948913
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 81.51135401054405
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 81.51135401054405
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 81.82649896246889
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 82.03138711851332
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 82.03138711851332
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 82.11697426641122
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 82.48958225359793
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 82.86646935626578
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 82.94707712142903
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 83.00904419932253
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 83.23591126798514
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 83.23591126798514
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 83.26532032516444
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 83.33103496393599
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 83.33761769586334
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 83.43142984031374
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 83.71675884082289
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 84.3604612695094
+        }
+      ],
+      "model_error": 1.0097931730821585,
+      "timestamp": "2025-05-19T23:18:49.437324"
+    },
+    "advanced": {
+      "gp_name": "Emilia Romagna",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 81.42895260313725
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 81.51065501384954
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 81.58328439149012
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 81.8265291554485
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 81.84539192444359
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 82.03085488810572
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 82.11699743122577
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 82.41557344194216
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 82.4893299426547
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 82.86640441795507
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 82.94734541652033
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 83.00922725300057
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 83.2360876943233
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 83.2360876943233
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 83.26569308477762
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 83.33154568705247
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 83.33766264219834
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 83.43149593854825
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 83.71683299762543
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 84.36055170521432
+        }
+      ],
+      "model_error": 1.0198295695218107,
+      "timestamp": "2025-05-19T23:18:50.737646"
+    },
+    "nochange": {
+      "gp_name": "Emilia Romagna",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 81.42895260313725
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 81.51065501384954
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 81.58328439149012
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 81.8265291554485
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 81.84539192444359
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 82.03085488810572
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 82.11699743122577
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 82.41557344194216
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 82.4893299426547
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 82.86640441795507
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 82.94734541652033
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 83.00922725300057
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 83.2360876943233
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 83.2360876943233
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 83.26569308477762
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 83.33154568705247
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 83.33766264219834
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 83.43149593854825
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 83.71683299762543
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 84.36055170521432
+        }
+      ],
+      "model_error": 1.0198295695218107,
+      "timestamp": "2025-05-19T23:18:52.070083"
+    },
+    "olddrivers": {
+      "gp_name": "Emilia Romagna",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 81.42895260313725
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 81.51065501384954
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 81.58328439149012
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 81.8265291554485
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 81.84539192444359
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 82.03085488810572
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 82.11699743122577
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 82.41557344194216
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 82.4893299426547
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 82.86640441795507
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 82.94734541652033
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 83.00922725300057
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 83.2360876943233
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 83.2360876943233
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 83.26569308477762
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 83.33154568705247
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 83.33766264219834
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 83.43149593854825
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 83.71683299762543
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 84.36055170521432
+        }
+      ],
+      "model_error": 1.0198295695218107,
+      "timestamp": "2025-05-19T23:18:53.358547"
+    }
+  },
+  "Monaco": {
+    "basic": {
+      "gp_name": "Monaco",
+      "model_type": "basic",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 16]",
+      "timestamp": "2025-05-19T23:19:11.195252"
+    },
+    "advanced": {
+      "gp_name": "Monaco",
+      "model_type": "advanced",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 16]",
+      "timestamp": "2025-05-19T23:19:13.059683"
+    },
+    "nochange": {
+      "gp_name": "Monaco",
+      "model_type": "nochange",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 16]",
+      "timestamp": "2025-05-19T23:19:14.837258"
+    },
+    "olddrivers": {
+      "gp_name": "Monaco",
+      "model_type": "olddrivers",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 16]",
+      "timestamp": "2025-05-19T23:19:16.635122"
+    }
+  },
+  "Canada": {
+    "basic": {
+      "gp_name": "Canada",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 90.4757350264346
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 90.56155167898534
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 90.56155167898534
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 90.57690826511399
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 90.57690826511399
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 90.67068628708572
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 90.68614501750223
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 90.70416570319814
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 90.71495491731964
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 90.79978678506711
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 90.81852298031575
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 90.83264978766464
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 91.0995188868351
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 91.63135568306586
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 91.81176741083462
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 92.32103319130357
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 92.32103319130357
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 93.03591833362451
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 95.60974437427876
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 95.60974437427876
+        }
+      ],
+      "model_error": 1.9455763768024248,
+      "timestamp": "2025-05-19T23:19:29.632913"
+    },
+    "advanced": {
+      "gp_name": "Canada",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 90.4738555556749
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 90.55854714636853
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 90.57463866451769
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 90.66892049004649
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 90.68545378247356
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 90.70270314020058
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 90.71483679829646
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 90.74830210151235
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 90.80129407271
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 90.82018325113073
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 90.83153642805465
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 90.9514271954423
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 91.1001751118635
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 91.63245520970463
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 91.81409192214069
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 92.321794883848
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 92.321794883848
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 92.6469149066956
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 93.03766882000936
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 95.6122890515898
+        }
+      ],
+      "model_error": 0.8410318242726902,
+      "timestamp": "2025-05-19T23:19:31.109094"
+    },
+    "nochange": {
+      "gp_name": "Canada",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 90.4738555556749
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 90.55854714636853
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 90.57463866451769
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 90.66892049004649
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 90.68545378247356
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 90.70270314020058
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 90.71483679829646
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 90.74830210151235
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 90.80129407271
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 90.82018325113073
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 90.83153642805465
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 90.9514271954423
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 91.1001751118635
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 91.63245520970463
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 91.81409192214069
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 92.321794883848
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 92.321794883848
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 92.6469149066956
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 93.03766882000936
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 95.6122890515898
+        }
+      ],
+      "model_error": 0.8410318242726902,
+      "timestamp": "2025-05-19T23:19:32.522052"
+    },
+    "olddrivers": {
+      "gp_name": "Canada",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 90.4738555556749
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 90.55854714636853
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 90.57463866451769
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 90.66892049004649
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 90.68545378247356
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 90.70270314020058
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 90.71483679829646
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 90.74830210151235
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 90.80129407271
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 90.82018325113073
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 90.83153642805465
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 90.9514271954423
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 91.1001751118635
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 91.63245520970463
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 91.81409192214069
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 92.321794883848
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 92.321794883848
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 92.6469149066956
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 93.03766882000936
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 95.6122890515898
+        }
+      ],
+      "model_error": 0.8410318242726902,
+      "timestamp": "2025-05-19T23:19:33.878556"
+    }
+  },
+  "Spain": {
+    "basic": {
+      "gp_name": "Spain",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 80.51773419194379
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 80.57742641043798
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 80.57742641043798
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 80.61583464326104
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 80.61583464326104
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 80.72291214122154
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 80.72291214122154
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 81.09489344422789
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 81.16408409027338
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 81.30220477550094
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 81.57121472538147
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 81.6356927077716
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 81.6356927077716
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 81.8110952728174
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 82.06990334308193
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 82.24208099211042
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 82.25468464079655
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 82.25668951209879
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 82.4023658127882
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 82.75430701423583
+        }
+      ],
+      "model_error": 0.6609821026696814,
+      "timestamp": "2025-05-19T23:19:48.673484"
+    },
+    "advanced": {
+      "gp_name": "Spain",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 80.3959177721037
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 80.51653507702022
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 80.57775379537163
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 80.61529320013277
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 80.72210873359023
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 81.09452498420248
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 81.16410684994082
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 81.29199510204616
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 81.30231599459873
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 81.47106898270692
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 81.57094370296518
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 81.63538441546991
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 81.63538441546991
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 81.8109523080151
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 82.07034364074042
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 82.24252992058571
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 82.25539296031906
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 82.2569667201352
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 82.40278859878038
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 82.75518281608083
+        }
+      ],
+      "model_error": 1.0228172974144378,
+      "timestamp": "2025-05-19T23:19:50.101097"
+    },
+    "nochange": {
+      "gp_name": "Spain",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 80.3959177721037
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 80.51653507702022
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 80.57775379537163
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 80.61529320013277
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 80.72210873359023
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 81.09452498420248
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 81.16410684994082
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 81.29199510204616
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 81.30231599459873
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 81.47106898270692
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 81.57094370296518
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 81.63538441546991
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 81.63538441546991
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 81.8109523080151
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 82.07034364074042
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 82.24252992058571
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 82.25539296031906
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 82.2569667201352
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 82.40278859878038
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 82.75518281608083
+        }
+      ],
+      "model_error": 1.0228172974144378,
+      "timestamp": "2025-05-19T23:19:51.595432"
+    },
+    "olddrivers": {
+      "gp_name": "Spain",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 80.3959177721037
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 80.51653507702022
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 80.57775379537163
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 80.61529320013277
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 80.72210873359023
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 81.09452498420248
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 81.16410684994082
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 81.29199510204616
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 81.30231599459873
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 81.47106898270692
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 81.57094370296518
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 81.63538441546991
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 81.63538441546991
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 81.8109523080151
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 82.07034364074042
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 82.24252992058571
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 82.25539296031906
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 82.2569667201352
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 82.40278859878038
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 82.75518281608083
+        }
+      ],
+      "model_error": 1.0228172974144378,
+      "timestamp": "2025-05-19T23:19:53.250860"
+    }
+  },
+  "Austria": {
+    "basic": {
+      "gp_name": "Austria",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 71.2538270129012
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 71.2538270129012
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 71.26295352436915
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 71.26295352436915
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 71.58724865214072
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 72.01778894632888
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 72.06177438174603
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 72.06373975328957
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 72.07794521497043
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 72.11088616350374
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 72.11088616350374
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 72.19156912501741
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 72.34642065178969
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 72.36461957581854
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 72.40357114547561
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 72.48192144212368
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 72.8060554822921
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 72.8060554822921
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 72.90643559747748
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 73.30143132247412
+        }
+      ],
+      "model_error": 0.4395251977662902,
+      "timestamp": "2025-05-19T23:20:09.011267"
+    },
+    "advanced": {
+      "gp_name": "Austria",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 71.25363899312394
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 71.26283397090249
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 71.27111971852672
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 71.58717886838342
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 71.95503867261684
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 72.01775349375966
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 72.06185305723268
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 72.063721870597
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 72.07791582746127
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 72.11095001013939
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 72.14418614975108
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 72.19171734629373
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 72.34639613559375
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 72.36460130616003
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 72.40358618146671
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 72.4819493462644
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 72.80609733319555
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 72.80609733319555
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 72.90650930575457
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 73.30148494538986
+        }
+      ],
+      "model_error": 0.4049320666015639,
+      "timestamp": "2025-05-19T23:20:10.696618"
+    },
+    "nochange": {
+      "gp_name": "Austria",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 71.25363899312394
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 71.26283397090249
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 71.27111971852672
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 71.58717886838342
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 71.95503867261684
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 72.01775349375966
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 72.06185305723268
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 72.063721870597
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 72.07791582746127
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 72.11095001013939
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 72.14418614975108
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 72.19171734629373
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 72.34639613559375
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 72.36460130616003
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 72.40358618146671
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 72.4819493462644
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 72.80609733319555
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 72.80609733319555
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 72.90650930575457
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 73.30148494538986
+        }
+      ],
+      "model_error": 0.4049320666015639,
+      "timestamp": "2025-05-19T23:20:12.128977"
+    },
+    "olddrivers": {
+      "gp_name": "Austria",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 71.25363899312394
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 71.26283397090249
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 71.27111971852672
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 71.58717886838342
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 71.95503867261684
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 72.01775349375966
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 72.06185305723268
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 72.063721870597
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 72.07791582746127
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 72.11095001013939
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 72.14418614975108
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 72.19171734629373
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 72.34639613559375
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 72.36460130616003
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 72.40358618146671
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 72.4819493462644
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 72.80609733319555
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 72.80609733319555
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 72.90650930575457
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 73.30148494538986
+        }
+      ],
+      "model_error": 0.4049320666015639,
+      "timestamp": "2025-05-19T23:20:13.713962"
+    }
+  },
+  "Great Britain": {
+    "basic": {
+      "gp_name": "Great Britain",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 71.2538270129012
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 71.2538270129012
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 71.26295352436915
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 71.26295352436915
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 71.58724865214072
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 72.01778894632888
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 72.06177438174603
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 72.06373975328957
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 72.07794521497043
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 72.11088616350374
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 72.11088616350374
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 72.19156912501741
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 72.34642065178969
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 72.36461957581854
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 72.40357114547561
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 72.48192144212368
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 72.8060554822921
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 72.8060554822921
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 72.90643559747748
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 73.30143132247412
+        }
+      ],
+      "model_error": 0.4395251977662902,
+      "timestamp": "2025-05-19T23:20:15.128696"
+    },
+    "advanced": {
+      "gp_name": "Great Britain",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 71.25363899312394
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 71.26283397090249
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 71.27111971852672
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 71.58717886838342
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 71.95503867261684
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 72.01775349375966
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 72.06185305723268
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 72.063721870597
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 72.07791582746127
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 72.11095001013939
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 72.14418614975108
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 72.19171734629373
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 72.34639613559375
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 72.36460130616003
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 72.40358618146671
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 72.4819493462644
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 72.80609733319555
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 72.80609733319555
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 72.90650930575457
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 73.30148494538986
+        }
+      ],
+      "model_error": 0.4049320666015639,
+      "timestamp": "2025-05-19T23:20:16.487505"
+    },
+    "nochange": {
+      "gp_name": "Great Britain",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 71.25363899312394
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 71.26283397090249
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 71.27111971852672
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 71.58717886838342
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 71.95503867261684
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 72.01775349375966
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 72.06185305723268
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 72.063721870597
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 72.07791582746127
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 72.11095001013939
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 72.14418614975108
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 72.19171734629373
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 72.34639613559375
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 72.36460130616003
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 72.40358618146671
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 72.4819493462644
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 72.80609733319555
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 72.80609733319555
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 72.90650930575457
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 73.30148494538986
+        }
+      ],
+      "model_error": 0.4049320666015639,
+      "timestamp": "2025-05-19T23:20:17.799021"
+    },
+    "olddrivers": {
+      "gp_name": "Great Britain",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 71.25363899312394
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 71.26283397090249
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 71.27111971852672
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 71.58717886838342
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 71.95503867261684
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 72.01775349375966
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 72.06185305723268
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 72.063721870597
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 72.07791582746127
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 72.11095001013939
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 72.14418614975108
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 72.19171734629373
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 72.34639613559375
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 72.36460130616003
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 72.40358618146671
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 72.4819493462644
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 72.80609733319555
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 72.80609733319555
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 72.90650930575457
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 73.30148494538986
+        }
+      ],
+      "model_error": 0.4049320666015639,
+      "timestamp": "2025-05-19T23:20:19.150141"
+    }
+  },
+  "Hungary": {
+    "basic": {
+      "gp_name": "Hungary",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 83.99029874944202
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 83.99029874944202
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 84.15524513536813
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 84.20905920298573
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 84.20905920298573
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 84.41075792446264
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 84.45715564528068
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 84.45715564528068
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 84.98908619270937
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 85.03141306872475
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 85.1105328035975
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 85.37644129745925
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 85.66890138716546
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 85.76458454242021
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 85.78492492276847
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 85.83646024079722
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 85.97674911205607
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 85.99396151302211
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 85.99396151302211
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 86.26927920483475
+        }
+      ],
+      "model_error": 0.8276226374003421,
+      "timestamp": "2025-05-19T23:20:34.916484"
+    },
+    "advanced": {
+      "gp_name": "Hungary",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 83.98915424691107
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 84.11649036060702
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 84.1540221455939
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 84.20987617491504
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 84.41080017248217
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 84.45587780859799
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 84.92206293225206
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 84.94767669188937
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 84.98866189643483
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 85.03103062740387
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 85.10982007029546
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 85.37608141054058
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 85.66937186421481
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 85.76416986663156
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 85.78583582661152
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 85.83752395851627
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 85.97789600359118
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 85.99436402302126
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 85.99436402302126
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 86.27036484733331
+        }
+      ],
+      "model_error": 1.2064367828494902,
+      "timestamp": "2025-05-19T23:20:36.451259"
+    },
+    "nochange": {
+      "gp_name": "Hungary",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 83.98915424691107
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 84.11649036060702
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 84.1540221455939
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 84.20987617491504
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 84.41080017248217
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 84.45587780859799
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 84.92206293225206
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 84.94767669188937
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 84.98866189643483
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 85.03103062740387
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 85.10982007029546
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 85.37608141054058
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 85.66937186421481
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 85.76416986663156
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 85.78583582661152
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 85.83752395851627
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 85.97789600359118
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 85.99436402302126
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 85.99436402302126
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 86.27036484733331
+        }
+      ],
+      "model_error": 1.2064367828494902,
+      "timestamp": "2025-05-19T23:20:37.870624"
+    },
+    "olddrivers": {
+      "gp_name": "Hungary",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 83.98915424691107
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 84.11649036060702
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 84.1540221455939
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 84.20987617491504
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 84.41080017248217
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 84.45587780859799
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 84.92206293225206
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 84.94767669188937
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 84.98866189643483
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 85.03103062740387
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 85.10982007029546
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 85.37608141054058
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 85.66937186421481
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 85.76416986663156
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 85.78583582661152
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 85.83752395851627
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 85.97789600359118
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 85.99436402302126
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 85.99436402302126
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 86.27036484733331
+        }
+      ],
+      "model_error": 1.2064367828494902,
+      "timestamp": "2025-05-19T23:20:39.256850"
+    }
+  },
+  "Belgium": {
+    "basic": {
+      "gp_name": "Belgium",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 108.89077953317756
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 108.89077953317756
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 108.93033288001759
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 108.93033288001759
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 108.9508278092992
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 109.15546772437283
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 109.15546772437283
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 109.92550415958932
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 110.00987761197872
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 110.04085422545403
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 110.06233718595965
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 110.2430298131656
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 110.29874971248663
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 110.29979413196183
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 110.3107507765254
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 110.43972126735262
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 110.5148424320617
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 110.71810611945634
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 119.36903236907892
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 119.36903236907892
+        }
+      ],
+      "model_error": 3.152543290435876,
+      "timestamp": "2025-05-19T23:20:53.756105"
+    },
+    "advanced": {
+      "gp_name": "Belgium",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 108.89024793054503
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 108.91175909303041
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 108.91252367987623
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 108.92937888518743
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 108.95040772758472
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 109.15546226648047
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 109.92552577797053
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 110.00994801867228
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 110.04056677957044
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 110.06316529928127
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 110.09647536270953
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 110.24275601634415
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 110.29884359825108
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 110.30031276737019
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 110.31091645309029
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 110.43977770933631
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 110.51475573558103
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 110.7186744108905
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 119.36926837578216
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 119.36926837578216
+        }
+      ],
+      "model_error": 3.2954350088381226,
+      "timestamp": "2025-05-19T23:20:54.989875"
+    },
+    "nochange": {
+      "gp_name": "Belgium",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 108.89024793054503
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 108.91175909303041
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 108.91252367987623
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 108.92937888518743
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 108.95040772758472
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 109.15546226648047
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 109.92552577797053
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 110.00994801867228
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 110.04056677957044
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 110.06316529928127
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 110.09647536270953
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 110.24275601634415
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 110.29884359825108
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 110.30031276737019
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 110.31091645309029
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 110.43977770933631
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 110.51475573558103
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 110.7186744108905
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 119.36926837578216
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 119.36926837578216
+        }
+      ],
+      "model_error": 3.2954350088381226,
+      "timestamp": "2025-05-19T23:20:56.179345"
+    },
+    "olddrivers": {
+      "gp_name": "Belgium",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 108.89024793054503
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 108.91175909303041
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 108.91252367987623
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 108.92937888518743
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 108.95040772758472
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 109.15546226648047
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 109.92552577797053
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 110.00994801867228
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 110.04056677957044
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 110.06316529928127
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 110.09647536270953
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 110.24275601634415
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 110.29884359825108
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 110.30031276737019
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 110.31091645309029
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 110.43977770933631
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 110.51475573558103
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 110.7186744108905
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 119.36926837578216
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 119.36926837578216
+        }
+      ],
+      "model_error": 3.2954350088381226,
+      "timestamp": "2025-05-19T23:20:57.355418"
+    }
+  },
+  "Netherlands": {
+    "basic": {
+      "gp_name": "Netherlands",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 75.88247542354095
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 75.88247542354095
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 75.91889089305889
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 75.91889089305889
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 76.07224446346493
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 76.16673248271717
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 76.17514065765495
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 76.17514065765495
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 76.70667340391967
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 76.77622772198565
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 76.83779234324956
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 76.86490497343982
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 77.10979704123638
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 77.20303720532061
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 77.43474591928583
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 77.44212973292298
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 77.48261362844258
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 77.70130330379509
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 78.14368873265578
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 78.14368873265578
+        }
+      ],
+      "model_error": 0.9473001988605887,
+      "timestamp": "2025-05-19T23:21:13.678769"
+    },
+    "advanced": {
+      "gp_name": "Netherlands",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 75.88278186569232
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 75.91872002154815
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 76.07230488499383
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 76.16666386496613
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 76.17387927223713
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 76.17476596842214
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 76.32205801223355
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 76.70659340373925
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 76.77628446917633
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 76.8378073916094
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 76.86511002915752
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 77.10992562479214
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 77.1936355511095
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 77.20321302469394
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 77.43452344268889
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 77.44220315272322
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 77.48261806942105
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 77.70122215853797
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 78.1436605545286
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 78.1436605545286
+        }
+      ],
+      "model_error": 1.15576832531384,
+      "timestamp": "2025-05-19T23:21:15.189992"
+    },
+    "nochange": {
+      "gp_name": "Netherlands",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 75.88278186569232
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 75.91872002154815
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 76.07230488499383
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 76.16666386496613
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 76.17387927223713
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 76.17476596842214
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 76.32205801223355
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 76.70659340373925
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 76.77628446917633
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 76.8378073916094
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 76.86511002915752
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 77.10992562479214
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 77.1936355511095
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 77.20321302469394
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 77.43452344268889
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 77.44220315272322
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 77.48261806942105
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 77.70122215853797
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 78.1436605545286
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 78.1436605545286
+        }
+      ],
+      "model_error": 1.15576832531384,
+      "timestamp": "2025-05-19T23:21:16.671146"
+    },
+    "olddrivers": {
+      "gp_name": "Netherlands",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 75.88278186569232
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 75.91872002154815
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 76.07230488499383
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 76.16666386496613
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 76.17387927223713
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 76.17476596842214
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 76.32205801223355
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 76.70659340373925
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 76.77628446917633
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 76.8378073916094
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 76.86511002915752
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 77.10992562479214
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 77.1936355511095
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 77.20321302469394
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 77.43452344268889
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 77.44220315272322
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 77.48261806942105
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 77.70122215853797
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 78.1436605545286
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 78.1436605545286
+        }
+      ],
+      "model_error": 1.15576832531384,
+      "timestamp": "2025-05-19T23:21:18.177739"
+    }
+  },
+  "Italy": {
+    "basic": {
+      "gp_name": "Italy",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 84.473062066655
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 84.53474355950333
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 84.57511987287317
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 84.7504806909068
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 85.4459711817447
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 85.4459711817447
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 85.69644359035063
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 85.70783533569384
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 85.8853274607169
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 85.8853274607169
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 85.88801871537571
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 86.23355368820397
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 86.35705098313976
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 86.50088487274948
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 86.58901052224348
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 86.58901052224348
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 86.74636292512196
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 86.74636292512196
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 86.83194091342398
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 90.23833125327317
+        }
+      ],
+      "model_error": 1.0109420469690242,
+      "timestamp": "2025-05-19T23:21:31.913530"
+    },
+    "advanced": {
+      "gp_name": "Italy",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 84.47236239388239
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 84.53378668503123
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 84.57534966149291
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 84.60377124717249
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 84.75020266377811
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 85.44564561801315
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 85.69655310674007
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 85.70799248546255
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 85.8859897498328
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 85.88748593549703
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 86.15703422828804
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 86.23430148834915
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 86.35699693362524
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 86.50114540431869
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 86.50697629368568
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 86.58945350344993
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 86.74619247462435
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 86.74619247462435
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 86.83181475351152
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 90.23886477436697
+        }
+      ],
+      "model_error": 1.113406014279473,
+      "timestamp": "2025-05-19T23:21:33.178707"
+    },
+    "nochange": {
+      "gp_name": "Italy",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 84.47236239388239
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 84.53378668503123
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 84.57534966149291
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 84.60377124717249
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 84.75020266377811
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 85.44564561801315
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 85.69655310674007
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 85.70799248546255
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 85.8859897498328
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 85.88748593549703
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 86.15703422828804
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 86.23430148834915
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 86.35699693362524
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 86.50114540431869
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 86.50697629368568
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 86.58945350344993
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 86.74619247462435
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 86.74619247462435
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 86.83181475351152
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 90.23886477436697
+        }
+      ],
+      "model_error": 1.113406014279473,
+      "timestamp": "2025-05-19T23:21:34.391888"
+    },
+    "olddrivers": {
+      "gp_name": "Italy",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 84.47236239388239
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 84.53378668503123
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 84.57534966149291
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 84.60377124717249
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 84.75020266377811
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 85.44564561801315
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 85.69655310674007
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 85.70799248546255
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 85.8859897498328
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 85.88748593549703
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 86.15703422828804
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 86.23430148834915
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 86.35699693362524
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 86.50114540431869
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 86.50697629368568
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 86.58945350344993
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 86.74619247462435
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 86.74619247462435
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 86.83181475351152
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 90.23886477436697
+        }
+      ],
+      "model_error": 1.113406014279473,
+      "timestamp": "2025-05-19T23:21:35.706768"
+    }
+  },
+  "Azerbaijan": {
+    "basic": {
+      "gp_name": "Azerbaijan",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 108.40410567576752
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 108.47889290901095
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 108.48495201124099
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 108.48495201124099
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 108.9430499246086
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 109.98434560849353
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 109.98434560849353
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 110.01926407450614
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 110.01926407450614
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 110.07496884631628
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 110.0774670053634
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 110.11851868830024
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 110.12736485911552
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 110.16067977124744
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 110.35575201332199
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 110.35575201332199
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 110.54683524329523
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 110.68321426970029
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 110.97032763868951
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 115.3077059837615
+        }
+      ],
+      "model_error": 0.7168672802755971,
+      "timestamp": "2025-05-19T23:21:51.076309"
+    },
+    "advanced": {
+      "gp_name": "Azerbaijan",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 108.4034986817606
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 108.4785550936317
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 108.48490253380983
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 108.94305512834057
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 109.95241611819954
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 109.98463770022025
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 110.01896903591036
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 110.0750184122184
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 110.0775222069997
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 110.11833263881601
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 110.12742797561116
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 110.16076509637324
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 110.20575546159674
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 110.35586874964781
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 110.35586874964781
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 110.5473055694539
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 110.68332346773278
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 110.9614591011107
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 110.97043399369895
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 115.30782823851402
+        }
+      ],
+      "model_error": 1.2199552475886257,
+      "timestamp": "2025-05-19T23:21:52.394066"
+    },
+    "nochange": {
+      "gp_name": "Azerbaijan",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 108.4034986817606
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 108.4785550936317
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 108.48490253380983
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 108.94305512834057
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 109.95241611819954
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 109.98463770022025
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 110.01896903591036
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 110.0750184122184
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 110.0775222069997
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 110.11833263881601
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 110.12742797561116
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 110.16076509637324
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 110.20575546159674
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 110.35586874964781
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 110.35586874964781
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 110.5473055694539
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 110.68332346773278
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 110.9614591011107
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 110.97043399369895
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 115.30782823851402
+        }
+      ],
+      "model_error": 1.2199552475886257,
+      "timestamp": "2025-05-19T23:21:53.760143"
+    },
+    "olddrivers": {
+      "gp_name": "Azerbaijan",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 108.4034986817606
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 108.4785550936317
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 108.48490253380983
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 108.94305512834057
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 109.95241611819954
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 109.98463770022025
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 110.01896903591036
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 110.0750184122184
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 110.0775222069997
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 110.11833263881601
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 110.12742797561116
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 110.16076509637324
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 110.20575546159674
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 110.35586874964781
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 110.35586874964781
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 110.5473055694539
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 110.68332346773278
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 110.9614591011107
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 110.97043399369895
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 115.30782823851402
+        }
+      ],
+      "model_error": 1.2199552475886257,
+      "timestamp": "2025-05-19T23:21:55.068549"
+    }
+  },
+  "Singapore": {
+    "basic": {
+      "gp_name": "Singapore",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 97.57857033195575
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 98.1831677865265
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 98.49418375085345
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 99.00366387377541
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 99.11995226984388
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 99.15028328808803
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 99.15028328808803
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 99.16801712496536
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 99.16801712496536
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 99.19048463724363
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 99.21098580208377
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 99.77470504471707
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 99.78860775301439
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 99.93193819427478
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 99.93193819427478
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 99.94742745469188
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 99.9901032298737
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 100.51367772684219
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 100.51367772684219
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 103.56489141118774
+        }
+      ],
+      "model_error": 1.4158048016446259,
+      "timestamp": "2025-05-19T23:22:11.534519"
+    },
+    "advanced": {
+      "gp_name": "Singapore",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 97.57621578032814
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 98.1825434375591
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 98.49069478275575
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 98.97507413750822
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 99.00183317339037
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 99.11774826701605
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 99.1507451039485
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 99.16636738433519
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 99.1859411701828
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 99.20790662634239
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 99.39975698539753
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 99.47311803855756
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 99.77731982464404
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 99.79200338794375
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 99.93271793177233
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 99.93271793177233
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 99.95048151821618
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 99.99413549630141
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 100.51737707417793
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 103.56662872102342
+        }
+      ],
+      "model_error": 1.2575970667008534,
+      "timestamp": "2025-05-19T23:22:12.997565"
+    },
+    "nochange": {
+      "gp_name": "Singapore",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 97.57621578032814
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 98.1825434375591
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 98.49069478275575
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 98.97507413750822
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 99.00183317339037
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 99.11774826701605
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 99.1507451039485
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 99.16636738433519
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 99.1859411701828
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 99.20790662634239
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 99.39975698539753
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 99.47311803855756
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 99.77731982464404
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 99.79200338794375
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 99.93271793177233
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 99.93271793177233
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 99.95048151821618
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 99.99413549630141
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 100.51737707417793
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 103.56662872102342
+        }
+      ],
+      "model_error": 1.2575970667008534,
+      "timestamp": "2025-05-19T23:22:14.424498"
+    },
+    "olddrivers": {
+      "gp_name": "Singapore",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 97.57621578032814
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 98.1825434375591
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 98.49069478275575
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 98.97507413750822
+        },
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 99.00183317339037
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 99.11774826701605
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 99.1507451039485
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 99.16636738433519
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 99.1859411701828
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 99.20790662634239
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 99.39975698539753
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 99.47311803855756
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 99.77731982464404
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 99.79200338794375
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 99.93271793177233
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 99.93271793177233
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 99.95048151821618
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 99.99413549630141
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 100.51737707417793
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 103.56662872102342
+        }
+      ],
+      "model_error": 1.2575970667008534,
+      "timestamp": "2025-05-19T23:22:15.831677"
+    }
+  },
+  "United States": {
+    "basic": {
+      "gp_name": "United States",
+      "model_type": "basic",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:22:31.582949"
+    },
+    "advanced": {
+      "gp_name": "United States",
+      "model_type": "advanced",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:22:32.991636"
+    },
+    "nochange": {
+      "gp_name": "United States",
+      "model_type": "nochange",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:22:34.374066"
+    },
+    "olddrivers": {
+      "gp_name": "United States",
+      "model_type": "olddrivers",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:22:35.880985"
+    }
+  },
+  "Mexico": {
+    "basic": {
+      "gp_name": "Mexico",
+      "model_type": "basic",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:22:51.162247"
+    },
+    "advanced": {
+      "gp_name": "Mexico",
+      "model_type": "advanced",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:22:52.563591"
+    },
+    "nochange": {
+      "gp_name": "Mexico",
+      "model_type": "nochange",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:22:53.934991"
+    },
+    "olddrivers": {
+      "gp_name": "Mexico",
+      "model_type": "olddrivers",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:22:55.312176"
+    }
+  },
+  "Brazil": {
+    "basic": {
+      "gp_name": "Brazil",
+      "model_type": "basic",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:23:13.735774"
+    },
+    "advanced": {
+      "gp_name": "Brazil",
+      "model_type": "advanced",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:23:15.566923"
+    },
+    "nochange": {
+      "gp_name": "Brazil",
+      "model_type": "nochange",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:23:17.346529"
+    },
+    "olddrivers": {
+      "gp_name": "Brazil",
+      "model_type": "olddrivers",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:23:19.038283"
+    }
+  },
+  "Las Vegas": {
+    "basic": {
+      "gp_name": "Las Vegas",
+      "model_type": "basic",
+      "predictions": [
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 98.63533718053685
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 99.23746200051157
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 99.3658904059498
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 99.3658904059498
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 99.50837802771053
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 99.5336873896118
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 99.5336873896118
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 99.62137684929239
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 99.64057344548088
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 99.6546630439169
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 99.70542602825132
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 99.78259253864528
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 99.78259253864528
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 99.92440659915965
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 100.09202500668499
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 100.37431907163777
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 100.37431907163777
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 100.47047881265381
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 100.78661437460907
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 102.25818291582357
+        }
+      ],
+      "model_error": 1.1933468412570782,
+      "timestamp": "2025-05-19T23:23:33.179363"
+    },
+    "advanced": {
+      "gp_name": "Las Vegas",
+      "model_type": "advanced",
+      "predictions": [
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 98.63395321602559
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 99.23595422444478
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 99.36533734802667
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 99.50597154236048
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 99.53273726440159
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 99.62118637586254
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 99.63962035385815
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 99.64521092494077
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 99.65625379044104
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 99.69911795081632
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 99.70441933434364
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 99.78318041249561
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 99.92535173254123
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 100.09348839935072
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 100.37558316354452
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 100.47177930278363
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 100.61058457651913
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 100.69147336675762
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 100.78640713602721
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 102.26019009396879
+        }
+      ],
+      "model_error": 1.5908211945543762,
+      "timestamp": "2025-05-19T23:23:34.479336"
+    },
+    "nochange": {
+      "gp_name": "Las Vegas",
+      "model_type": "nochange",
+      "predictions": [
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 98.63395321602559
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 99.23595422444478
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 99.36533734802667
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 99.50597154236048
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 99.53273726440159
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 99.62118637586254
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 99.63962035385815
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 99.64521092494077
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 99.65625379044104
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 99.69911795081632
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 99.70441933434364
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 99.78318041249561
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 99.92535173254123
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 100.09348839935072
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 100.37558316354452
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 100.47177930278363
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 100.61058457651913
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 100.69147336675762
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 100.78640713602721
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 102.26019009396879
+        }
+      ],
+      "model_error": 1.5908211945543762,
+      "timestamp": "2025-05-19T23:23:35.871571"
+    },
+    "olddrivers": {
+      "gp_name": "Las Vegas",
+      "model_type": "olddrivers",
+      "predictions": [
+        {
+          "Driver": "Pierre Gasly",
+          "PredictedRaceTime (s)": 98.63395321602559
+        },
+        {
+          "Driver": "Esteban Ocon",
+          "PredictedRaceTime (s)": 99.23595422444478
+        },
+        {
+          "Driver": "Lance Stroll",
+          "PredictedRaceTime (s)": 99.36533734802667
+        },
+        {
+          "Driver": "Fernando Alonso",
+          "PredictedRaceTime (s)": 99.50597154236048
+        },
+        {
+          "Driver": "Isack Hadjar",
+          "PredictedRaceTime (s)": 99.53273726440159
+        },
+        {
+          "Driver": "Jack Doohan",
+          "PredictedRaceTime (s)": 99.62118637586254
+        },
+        {
+          "Driver": "George Russell",
+          "PredictedRaceTime (s)": 99.63962035385815
+        },
+        {
+          "Driver": "Gabriel Bortoleto",
+          "PredictedRaceTime (s)": 99.64521092494077
+        },
+        {
+          "Driver": "Alexander Albon",
+          "PredictedRaceTime (s)": 99.65625379044104
+        },
+        {
+          "Driver": "Yuki Tsunoda",
+          "PredictedRaceTime (s)": 99.69911795081632
+        },
+        {
+          "Driver": "Max Verstappen",
+          "PredictedRaceTime (s)": 99.70441933434364
+        },
+        {
+          "Driver": "Liam Lawson",
+          "PredictedRaceTime (s)": 99.78318041249561
+        },
+        {
+          "Driver": "Oliver Bearman",
+          "PredictedRaceTime (s)": 99.92535173254123
+        },
+        {
+          "Driver": "Andrea Kimi Antonelli",
+          "PredictedRaceTime (s)": 100.09348839935072
+        },
+        {
+          "Driver": "Nico H\u00fclkenberg",
+          "PredictedRaceTime (s)": 100.37558316354452
+        },
+        {
+          "Driver": "Lando Norris",
+          "PredictedRaceTime (s)": 100.47177930278363
+        },
+        {
+          "Driver": "Charles Leclerc",
+          "PredictedRaceTime (s)": 100.61058457651913
+        },
+        {
+          "Driver": "Carlos Sainz Jr.",
+          "PredictedRaceTime (s)": 100.69147336675762
+        },
+        {
+          "Driver": "Oscar Piastri",
+          "PredictedRaceTime (s)": 100.78640713602721
+        },
+        {
+          "Driver": "Lewis Hamilton",
+          "PredictedRaceTime (s)": 102.26019009396879
+        }
+      ],
+      "model_error": 1.5908211945543762,
+      "timestamp": "2025-05-19T23:23:37.125474"
+    }
+  },
+  "Qatar": {
+    "basic": {
+      "gp_name": "Qatar",
+      "model_type": "basic",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:23:52.197309"
+    },
+    "advanced": {
+      "gp_name": "Qatar",
+      "model_type": "advanced",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:23:53.701054"
+    },
+    "nochange": {
+      "gp_name": "Qatar",
+      "model_type": "nochange",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:23:55.126209"
+    },
+    "olddrivers": {
+      "gp_name": "Qatar",
+      "model_type": "olddrivers",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 18]",
+      "timestamp": "2025-05-19T23:23:56.550878"
+    }
+  },
+  "Abu Dhabi": {
+    "basic": {
+      "gp_name": "Abu Dhabi",
+      "model_type": "basic",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:24:12.499373"
+    },
+    "advanced": {
+      "gp_name": "Abu Dhabi",
+      "model_type": "advanced",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:24:14.015670"
+    },
+    "nochange": {
+      "gp_name": "Abu Dhabi",
+      "model_type": "nochange",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:24:15.575167"
+    },
+    "olddrivers": {
+      "gp_name": "Abu Dhabi",
+      "model_type": "olddrivers",
+      "error": "Found input variables with inconsistent numbers of samples: [20, 19]",
+      "timestamp": "2025-05-19T23:24:16.966585"
+    }
+  }
+}

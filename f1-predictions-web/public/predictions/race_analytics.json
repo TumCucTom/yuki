@@ -1,0 +1,104 @@
+{
+  "driver_stats": {
+    "Max Verstappen": {
+      "Predicted_Time_mean": 90.62283333333333,
+      "Predicted_Time_std": 1.2428730291814476,
+      "Predicted_Time_min": 89.456,
+      "Predicted_Time_max": 92.234,
+      "Predicted_Position_mean": 1.3333333333333333,
+      "Predicted_Position_std": 0.5163977794943223,
+      "Predicted_Position_min": 1,
+      "Predicted_Position_max": 2
+    },
+    "Lewis Hamilton": {
+      "Predicted_Time_mean": 91.5115,
+      "Predicted_Time_std": 1.1564775541848327,
+      "Predicted_Time_min": 90.456,
+      "Predicted_Time_max": 92.567,
+      "Predicted_Position_mean": 2.0,
+      "Predicted_Position_std": 0.0,
+      "Predicted_Position_min": 2,
+      "Predicted_Position_max": 2
+    },
+    "Lando Norris": {
+      "Predicted_Time_mean": 90.8395,
+      "Predicted_Time_std": 0.07141778489984066,
+      "Predicted_Time_min": 90.789,
+      "Predicted_Time_max": 90.89,
+      "Predicted_Position_mean": 3.0,
+      "Predicted_Position_std": 0.0,
+      "Predicted_Position_min": 3,
+      "Predicted_Position_max": 3
+    },
+    "Charles Leclerc": {
+      "Predicted_Time_mean": 89.1785,
+      "Predicted_Time_std": 0.0784888527116997,
+      "Predicted_Time_min": 89.123,
+      "Predicted_Time_max": 89.234,
+      "Predicted_Position_mean": 1.0,
+      "Predicted_Position_std": 0.0,
+      "Predicted_Position_min": 1,
+      "Predicted_Position_max": 1
+    },
+    "Carlos Sainz": {
+      "Predicted_Time_mean": 89.8395,
+      "Predicted_Time_std": 0.07141778489984066,
+      "Predicted_Time_min": 89.789,
+      "Predicted_Time_max": 89.89,
+      "Predicted_Position_mean": 3.0,
+      "Predicted_Position_std": 0.0,
+      "Predicted_Position_min": 3,
+      "Predicted_Position_max": 3
+    },
+    "Fernando Alonso": {
+      "Predicted_Time_mean": 92.8395,
+      "Predicted_Time_std": 0.07141778489984066,
+      "Predicted_Time_min": 92.789,
+      "Predicted_Time_max": 92.89,
+      "Predicted_Position_mean": 3.0,
+      "Predicted_Position_std": 0.0,
+      "Predicted_Position_min": 3,
+      "Predicted_Position_max": 3
+    }
+  },
+  "model_comparison": {
+    "neural_network": {
+      "Prediction_Count": 9,
+      "Mean_Error_mean": 1.152000000000001,
+      "Mean_Error_std": 1.0203444271421303,
+      "Mean_Error_min": 0.12300000000000466,
+      "Mean_Error_max": 2.7890000000000015
+    },
+    "random_forest": {
+      "Prediction_Count": 9,
+      "Mean_Error_mean": 1.1878888888888877,
+      "Mean_Error_std": 1.0716409665140225,
+      "Mean_Error_min": 0.10999999999999943,
+      "Mean_Error_max": 2.8900000000000006
+    }
+  },
+  "race_trends": [
+    {
+      "Grand Prix": "Dutch Grand Prix",
+      "Best Model": "neural_network",
+      "Worst Model": "random_forest",
+      "Prediction Spread": 0.7669999999999959,
+      "Last Updated": "2025-05-19T23:15:00.316200"
+    },
+    {
+      "Grand Prix": "Italian Grand Prix",
+      "Best Model": "random_forest",
+      "Worst Model": "neural_network",
+      "Prediction Spread": 0.7669999999999959,
+      "Last Updated": "2025-05-19T23:15:00.316218"
+    },
+    {
+      "Grand Prix": "Singapore Grand Prix",
+      "Best Model": "neural_network",
+      "Worst Model": "random_forest",
+      "Prediction Spread": 0.7669999999999959,
+      "Last Updated": "2025-05-19T23:15:00.316224"
+    }
+  ],
+  "last_updated": "2025-05-19T23:15:00.316228"
+}

@@ -1,0 +1,61 @@
+Grand Prix,Model Type,Error (seconds)
+Bahrain,basic,0.8433656452712164
+Bahrain,advanced,1.1959743190900554
+Bahrain,nochange,1.1959743190900554
+Bahrain,olddrivers,1.1959743190900554
+China,basic,1.8707777530127352
+China,advanced,1.3468080352342753
+China,nochange,1.3468080352342753
+China,olddrivers,1.3468080352342753
+Miami,basic,1.1329654737260668
+Miami,advanced,1.065531042681929
+Miami,nochange,1.065531042681929
+Miami,olddrivers,1.065531042681929
+Emilia Romagna,basic,1.0097931730821585
+Emilia Romagna,advanced,1.0198295695218107
+Emilia Romagna,nochange,1.0198295695218107
+Emilia Romagna,olddrivers,1.0198295695218107
+Canada,basic,1.9455763768024248
+Canada,advanced,0.8410318242726902
+Canada,nochange,0.8410318242726902
+Canada,olddrivers,0.8410318242726902
+Spain,basic,0.6609821026696814
+Spain,advanced,1.0228172974144378
+Spain,nochange,1.0228172974144378
+Spain,olddrivers,1.0228172974144378
+Austria,basic,0.4395251977662902
+Austria,advanced,0.4049320666015639
+Austria,nochange,0.4049320666015639
+Austria,olddrivers,0.4049320666015639
+Great Britain,basic,0.4395251977662902
+Great Britain,advanced,0.4049320666015639
+Great Britain,nochange,0.4049320666015639
+Great Britain,olddrivers,0.4049320666015639
+Hungary,basic,0.8276226374003421
+Hungary,advanced,1.2064367828494902
+Hungary,nochange,1.2064367828494902
+Hungary,olddrivers,1.2064367828494902
+Belgium,basic,3.152543290435876
+Belgium,advanced,3.2954350088381226
+Belgium,nochange,3.2954350088381226
+Belgium,olddrivers,3.2954350088381226
+Netherlands,basic,0.9473001988605887
+Netherlands,advanced,1.15576832531384
+Netherlands,nochange,1.15576832531384
+Netherlands,olddrivers,1.15576832531384
+Italy,basic,1.0109420469690242
+Italy,advanced,1.113406014279473
+Italy,nochange,1.113406014279473
+Italy,olddrivers,1.113406014279473
+Azerbaijan,basic,0.7168672802755971
+Azerbaijan,advanced,1.2199552475886257
+Azerbaijan,nochange,1.2199552475886257
+Azerbaijan,olddrivers,1.2199552475886257
+Singapore,basic,1.4158048016446259
+Singapore,advanced,1.2575970667008534
+Singapore,nochange,1.2575970667008534
+Singapore,olddrivers,1.2575970667008534
+Las Vegas,basic,1.1933468412570782
+Las Vegas,advanced,1.5908211945543762
+Las Vegas,nochange,1.5908211945543762
+Las Vegas,olddrivers,1.5908211945543762

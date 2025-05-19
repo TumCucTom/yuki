@@ -1,0 +1,5 @@
+Model Type,Mean Error,Std Error,Min Error,Max Error,Median Error
+advanced,1.209,0.657,0.405,3.295,1.156
+basic,1.174,0.704,0.44,3.153,1.01
+nochange,1.209,0.657,0.405,3.295,1.156
+olddrivers,1.209,0.657,0.405,3.295,1.156
