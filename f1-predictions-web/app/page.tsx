@@ -143,13 +143,13 @@ export default function Home() {
                 <div className="h-8 w-1 bg-[var(--f1-red)] mr-3"></div>
                 <span className="text-xl font-bold text-white">Yuki ML</span>
               </div>
-              <p className="text-gray-400 mt-2">F1 2025 Predictions</p>
+              <p className="text-gray-400 mt-2">2025 Thomas Bale</p>
             </div>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-400 hover:text-[var(--f1-red)] transition">About</a>
               <a href="#" className="text-gray-400 hover:text-[var(--f1-red)] transition">Data</a>
               <a href="#" className="text-gray-400 hover:text-[var(--f1-red)] transition">API</a>
-              <a href="#" className="text-gray-400 hover:text-[var(--f1-red)] transition">Github</a>
+              <a href="https://github.com/tumcuctom/yuki" className="text-gray-400 hover:text-[var(--f1-red)] transition">Github</a>
             </div>
           </div>
         </div>
